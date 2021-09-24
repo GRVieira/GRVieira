@@ -2,7 +2,7 @@
 
 ## Olá, eu sou o Gustavo, bem-vindo ao meu GitHub!
 
-### SObre mim
+### Sobre mim
 
 - Estudante de Tecnologia e futuro desenvolvedor back-end.
 
